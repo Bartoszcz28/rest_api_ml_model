@@ -1,5 +1,5 @@
 # rest_api_ml_model
-Python with Spark env for real time data analysis.
+Api that allows you to interact with the machine learning model.
 
 
 ## build
